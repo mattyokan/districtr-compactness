@@ -1,6 +1,6 @@
 # Districtr Compactness Test (and useful splitting utility)
 
-Careful: despite being hosted on Github, this tool is [**not open-source**](https://github.com/mattyokan/districtr-compactness/LICENSE.txt).
+Careful: despite being hosted on Github, this tool is [**not open-source**](https://github.com/mattyokan/districtr-compactness/blob/master/LICENSE.txt).
 
 Provides a convenient way to analyze compactness using
 the [Polsby–Popper test](https://en.wikipedia.org/wiki/Polsby–Popper_test).
